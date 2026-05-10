@@ -1,0 +1,47 @@
+site_name: SHVM
+# site_url: https://shelbyen.github.io/
+site_author: shebik
+site_description: Все конспекты с ШВМэвов которые скинули)
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+
+# Navigation
+site_name: Конспекты
+
+nav:
+  - Главная: index.md
+  - Общие темы:
+      - История РСО: common_themes/history_rso.md
+      - Структура: common_themes/struct.md
+      - История Карамели: common_themes/history.md
+      - Дисциплина: common_themes/discipline.md
+  - Ребенки:
+    - Младшие: children/low.md
+    - Средние: children/medium.md
+    - Старшие: children/high.md
+
+
+# Copyright
+copyright: Copyright &copy; 2026 shebik. All code is poetry.
