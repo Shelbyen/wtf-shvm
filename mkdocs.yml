@@ -37,6 +37,7 @@ nav:
       - Структура: common_themes/struct.md
       - История Карамели: common_themes/history.md
       - Дисциплина: common_themes/discipline.md
+      - Наказания и поощерения: common_themes/nakaz_posh.md
   - Ребенки:
     - Младшие: children/low.md
     - Средние: children/medium.md
