@@ -36,8 +36,10 @@ nav:
       - История РСО: common_themes/history_rso.md
       - Структура: common_themes/struct.md
       - История Карамели: common_themes/history.md
-      - Дисциплина: common_themes/discipline.md
-      - Наказания и поощерения: common_themes/nakaz_posh.md
+  - Инструменты вожатого:
+    - Лагерь и логика смены: instruments/logic_of_camp.md
+    - Дисциплина: common_themes/discipline.md
+    - Наказания и поощерения: common_themes/nakaz_posh.md
   - Ребенки:
     - Младшие: children/low.md
     - Средние: children/medium.md
