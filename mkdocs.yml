@@ -39,6 +39,7 @@ nav:
   - Инструменты вожатого:
     - Лагерь и логика смены: instruments/logic_of_camp.md
     - Дисциплина: common_themes/discipline.md
+    - Работа с группой: instruments/work_with_group.md
     - Наказания и поощерения: common_themes/nakaz_posh.md
   - Ребенки:
     - Младшие: children/low.md
